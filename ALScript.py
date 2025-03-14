@@ -17,6 +17,7 @@ def login(driver, username, password):
 
     # Drücke den Login-Button
     # helloooo this is a test from superior swedon
+    # Germönie is far superiorer!
     driver.find_element(By.ID, "login_button_id").click()
 
 def select_location(driver):
